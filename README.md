@@ -5,6 +5,8 @@
 
 With this application you will be able to write, save, and delete notes. This application uses an express backend and saves and retrieves note data from a JSON file.
 
+### deployed app at https://tranquil-sierra-61600.herokuapp.com/
+
 The user will be able to enter a note title and text.
 
 ## Table of Contents
@@ -41,6 +43,6 @@ There are no contributors at this time.
 
 ## Questions
 
-If you have any questions about the repo, open an issue or contact me directly at email@example.com.
+If you have any questions about the repo, open an issue or contact me directly at hood@example.com........
 
 ![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)
